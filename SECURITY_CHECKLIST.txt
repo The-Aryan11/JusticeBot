@@ -1,0 +1,70 @@
+SECURITY CHECKLIST - JusticeBot
+
+IMPLEMENTED:
+[x] Input Sanitization (bleach library)
+[x] Input Validation (custom validators)
+[x] Rate Limiting (Flask-Limiter)
+  - /health: 60/minute
+  - /analyze-case: 10/minute
+  - /check-bail: 10/minute
+  - /generate-application: 5/minute
+  - /search-precedents: 10/minute
+  - /detect-bias: 5/minute
+  - /sample-cases: 30/minute
+  - /rights-info: 30/minute
+[x] CORS Configuration (whitelist origins)
+[x] HTTPS/TLS Enforcement (Talisman)
+[x] Security Headers
+  - Content-Security-Policy
+  - Strict-Transport-Security
+  - X-Frame-Options: DENY
+  - X-Content-Type-Options: nosniff
+[x] Error Handling (no sensitive info leaked)
+[x] SQL Injection Protection
+[x] XSS Protection (bleach + CSP)
+[x] CSRF Token Support
+[x] Request Validation (content-type checks)
+[x] JSON-only API (no XML/XXE)
+[x] Logging (no passwords logged)
+
+DEPLOYMENT CHECKLIST:
+[ ] Set DEBUG=False
+[ ] Set ENVIRONMENT=production
+[ ] Configure HTTPS/SSL certificates
+[ ] Set strong JWT_SECRET (min 32 chars)
+[ ] Configure CORS with actual frontend URL
+[ ] Enable rate limiting
+[ ] Setup logging to file
+[ ] Add monitoring/alerting
+[ ] Regular security audits
+[ ] Keep dependencies updated
+
+RATE LIMITS:
+- Default: 200 requests/day, 50 requests/hour per IP
+- Per-endpoint limits configured above
+- Memory-based storage (Redis optional for production)
+
+ALLOWED ORIGINS:
+- Configure in ALLOWED_ORIGINS env var
+- Separate multiple with comma
+- Whitelist only trusted domains
+
+ENVIRONMENT VARIABLES:
+GROQ_API_KEY=<your_key>
+GEMINI_API_KEY=<your_key>
+TOGETHER_API_KEY=<your_key>
+USE_SSL=True
+FORCE_HTTPS=True
+FRONTEND_URL=<your_frontend_url>
+ALLOWED_ORIGINS=<comma_separated_origins>
+JWT_SECRET=<min_32_chars>
+DEBUG=False
+ENVIRONMENT=production
+LOG_LEVEL=INFO
+
+TESTING:
+- Test rate limiting: Make 11+ requests to /api/health
+- Test CORS: Try from different origin
+- Test input validation: Send invalid data
+- Test injection: Try script tags and SQL in inputs
+- Test error handling: Check no stack traces leaked

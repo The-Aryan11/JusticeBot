@@ -1,0 +1,62 @@
+{
+  "provisions": [
+    {
+      "section": "436",
+      "title": "Bail in bailable offences",
+      "description": "When any person accused of, or suspected of, any offence punishable with imprisonment for a term not exceeding three years, or with fine only, is arrested on a charge of committing that offence, he may be released on bail.",
+      "full_text": "When any person accused of, or suspected of, any offence punishable with imprisonment for a term not exceeding three years, or with fine only, is arrested on a charge of committing that offence, he may be released on bail by any police officer above the rank of sub-inspector, or by an officer in charge of a police station, or by a court.",
+      "key_points": [
+        "Applies to offences punishable with max 3 years imprisonment",
+        "Police officer can grant bail",
+        "Discretionary bail as of right"
+      ]
+    },
+    {
+      "section": "436A",
+      "title": "Bail in case of person accused of offence punishable with imprisonment for seven years or more",
+      "description": "Notwithstanding anything contained in section 436, no person accused of an offence punishable with imprisonment for seven years or more shall be released on bail unless he furnishes bail or deposits security.",
+      "full_text": "Notwithstanding anything contained in section 436, when a person is accused of an offence punishable with imprisonment for a term of seven years or more, bail cannot be granted unless the person is acquitted or discharged. However, after the accused has been in custody for half of the maximum sentence period prescribed for the offence, he shall be released on bail. This is a fundamental right under the Constitution.",
+      "key_points": [
+        "MANDATORY BAIL after half of maximum sentence",
+        "Key for undertrial prisoners",
+        "Constitutional guarantee",
+        "Cannot be denied after detention limit exceeded"
+      ]
+    },
+    {
+      "section": "437",
+      "title": "Bail in case of person accused of certain offences in magistrate's discretion",
+      "description": "When any person is accused of committing an offence for which bail is not authorized, the magistrate may, after considering the facts and circumstances of the case and hearing the prosecution and the accused, release him on bail if satisfied.",
+      "full_text": "When any person is accused of committing an offence punishable with imprisonment of a term exceeding three years, but not exceeding seven years, or an offence relating to rape, he may be released on bail by the magistrate if he is satisfied that circumstances do not warrant his detention in custody.",
+      "key_points": [
+        "Discretionary bail",
+        "Magistrate must consider case facts",
+        "Applicable for offences 3-7 years",
+        "Must record reasons"
+      ]
+    },
+    {
+      "section": "167",
+      "title": "Procedure in certain cases for conviction of offences punishable with death or life imprisonment",
+      "description": "When any person is arrested on a charge of committing an offence punishable with death or life imprisonment, and is produced before a magistrate, the magistrate shall not pass an order authorizing detention of the accused in police custody unless the police officer investigating the case satisfies the magistrate that investigation is incomplete and detention is necessary.",
+      "full_text": "When a person is arrested and the chargesheet is not filed within the prescribed time (60 days for normal offences, 90 days for serious offences), the accused becomes eligible for DEFAULT BAIL as a matter of right. This is to protect the constitutional right to speedy trial.",
+      "key_points": [
+        "Default bail eligibility",
+        "60-90 days limit for chargesheet",
+        "Automatic right after deadline",
+        "Prisoner cannot be denied"
+      ]
+    },
+    {
+      "section": "439",
+      "title": "Special powers of High Court and Court of Session",
+      "description": "The High Court and Court of Session may direct that any person accused of an offence be released on bail even if bail cannot be granted under section 436 or 437.",
+      "full_text": "The High Court or Court of Session may entertain an application for bail from any person who has been denied bail by the magistrate. These courts have the inherent power to grant bail even in serious cases.",
+      "key_points": [
+        "Higher court remedy",
+        "Override lower court decisions",
+        "Used when magistrate denies bail unjustly"
+      ]
+    }
+  ]
+}

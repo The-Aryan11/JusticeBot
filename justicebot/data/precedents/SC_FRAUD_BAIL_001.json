@@ -1,0 +1,23 @@
+{
+  "id": "SC_FRAUD_BAIL_001",
+  "case_name": "Suresh Gupta vs Central Bureau of Investigation",
+  "year": 2014,
+  "court": "Supreme Court of India",
+  "section": "437",
+  "judgment_date": "2014-06-10",
+  "judges": [
+    "Justice Pranab Mukherjee"
+  ],
+  "summary": "Bail in white-collar crime cases",
+  "key_holding": "Bail in white-collar crimes should follow same principles as other cases. Flight risk and tampering are key factors, not gravity alone.",
+  "impact": "Prevented blanket denial of bail in corporate frauds",
+  "precedent_strength": 8.0,
+  "applicable_sections": [
+    "437"
+  ],
+  "full_text": "Serious financial crimes don't automatically warrant jail. Bail depends on case-specific circumstances and risk assessment.",
+  "citations": [
+    "2014 SCC (4) 100"
+  ],
+  "relevance_score": 0.8
+}

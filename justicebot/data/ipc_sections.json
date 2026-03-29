@@ -1,0 +1,382 @@
+{
+  "sections": [
+    {
+      "id": "1",
+      "number": "1",
+      "title": "General Explanations",
+      "description": "This section defines general principles for the code",
+      "max_punishment_days": 0,
+      "bailable": true,
+      "cognizable": false
+    },
+    {
+      "id": "2",
+      "number": "2",
+      "title": "General Exceptions",
+      "description": "Act of a person who, at the time of doing it, by reason of unsoundness of mind, is incapable of knowing the nature of the act",
+      "max_punishment_days": 0,
+      "bailable": true,
+      "cognizable": false
+    },
+    {
+      "id": "3",
+      "number": "3",
+      "title": "Punishment and its kinds",
+      "description": "Punishment includes death, life imprisonment, imprisonment and fine",
+      "max_punishment_days": 0,
+      "bailable": true,
+      "cognizable": false
+    },
+    {
+      "id": "34",
+      "number": "34",
+      "title": "Acts of several persons in furtherance of common intention",
+      "description": "When a criminal act is done by several persons in furtherance of the common intention of all",
+      "max_punishment_days": 365,
+      "bailable": true,
+      "cognizable": true
+    },
+    {
+      "id": "35",
+      "number": "35",
+      "title": "Commencement of criminal liability",
+      "description": "A person is liable for any act in pursuance of or furtherance of a common intention",
+      "max_punishment_days": 365,
+      "bailable": true,
+      "cognizable": false
+    },
+    {
+      "id": "109",
+      "number": "109",
+      "title": "Punishment for abetment",
+      "description": "Whoever abets any offence shall, if the act abetted is committed in consequence of the abetment be punished with the same punishment",
+      "max_punishment_days": 365,
+      "bailable": true,
+      "cognizable": true
+    },
+    {
+      "id": "143",
+      "number": "143",
+      "title": "Punishment for unlawful assembly",
+      "description": "Whoever being part of an unlawful assembly, is guilty of rioting, shall be punished with imprisonment of either description for a term which may extend to six months",
+      "max_punishment_days": 180,
+      "bailable": true,
+      "cognizable": true
+    },
+    {
+      "id": "147",
+      "number": "147",
+      "title": "Punishment for rioting",
+      "description": "Whoever is guilty of rioting shall be punished with imprisonment of either description for a term which may extend to six months",
+      "max_punishment_days": 180,
+      "bailable": true,
+      "cognizable": true
+    },
+    {
+      "id": "294",
+      "number": "294",
+      "title": "Obscene acts and songs",
+      "description": "Whoever, to the annoyance of others does any obscene act in any public place, or sings, recites or utters any obscene song",
+      "max_punishment_days": 90,
+      "bailable": true,
+      "cognizable": false
+    },
+    {
+      "id": "323",
+      "number": "323",
+      "title": "Punishment for voluntarily causing hurt",
+      "description": "Whoever, except in the case provided by section 334, voluntarily causes hurt shall be punished with imprisonment of either description for a term which may extend to six months",
+      "max_punishment_days": 180,
+      "bailable": true,
+      "cognizable": false
+    },
+    {
+      "id": "324",
+      "number": "324",
+      "title": "Voluntarily causing hurt by means of poison",
+      "description": "Whoever causes hurt by means of poison or any deleterious substance shall be punished with imprisonment of either description for a term which may extend to six months",
+      "max_punishment_days": 180,
+      "bailable": true,
+      "cognizable": true
+    },
+    {
+      "id": "326",
+      "number": "326",
+      "title": "Causing grievous hurt by act endangering life or personal safety",
+      "description": "Whoever causes hurt to any person by doing any rash or negligent act which endangers human life or the personal safety of others",
+      "max_punishment_days": 1095,
+      "bailable": true,
+      "cognizable": true
+    },
+    {
+      "id": "336",
+      "number": "336",
+      "title": "Act endangering life or personal safety through negligence",
+      "description": "Whoever does any act so rashly or negligently as to endanger human life or the personal safety of others",
+      "max_punishment_days": 90,
+      "bailable": true,
+      "cognizable": false
+    },
+    {
+      "id": "337",
+      "number": "337",
+      "title": "Causing hurt by act endangering life or personal safety",
+      "description": "Whoever causes hurt to any person by doing any act which he knows or has reason to believe to be likely to cause hurt",
+      "max_punishment_days": 180,
+      "bailable": true,
+      "cognizable": false
+    },
+    {
+      "id": "338",
+      "number": "338",
+      "title": "Causing grievous hurt by act endangering life",
+      "description": "Whoever causes grievous hurt to any person by doing any act which he knows or has reason to believe to be likely to cause grievous hurt",
+      "max_punishment_days": 365,
+      "bailable": true,
+      "cognizable": true
+    },
+    {
+      "id": "341",
+      "number": "341",
+      "title": "Punishment for wrongful restraint",
+      "description": "Whoever wrongfully restrains any person shall be punished with simple imprisonment for a term which may extend to one month",
+      "max_punishment_days": 30,
+      "bailable": true,
+      "cognizable": false
+    },
+    {
+      "id": "342",
+      "number": "342",
+      "title": "Punishment for wrongful confinement",
+      "description": "Whoever wrongfully confines any person shall be punished with simple imprisonment for a term which may extend to one year",
+      "max_punishment_days": 365,
+      "bailable": true,
+      "cognizable": false
+    },
+    {
+      "id": "355",
+      "number": "355",
+      "title": "Punishment for criminal force",
+      "description": "Whoever uses criminal force to any person shall be punished with imprisonment of either description for a term which may extend to three months",
+      "max_punishment_days": 90,
+      "bailable": true,
+      "cognizable": false
+    },
+    {
+      "id": "356",
+      "number": "356",
+      "title": "Punishment for criminal force when armed with deadly weapon",
+      "description": "If the offence be committed by using criminal force armed with a deadly weapon or instrument",
+      "max_punishment_days": 365,
+      "bailable": true,
+      "cognizable": true
+    },
+    {
+      "id": "358",
+      "number": "358",
+      "title": "Punishment for insulting modesty",
+      "description": "Whoever, intending to insult the modesty of any woman, utters any word or makes any gesture or exhibits any object with such intention",
+      "max_punishment_days": 90,
+      "bailable": true,
+      "cognizable": false
+    },
+    {
+      "id": "376",
+      "number": "376",
+      "title": "Punishment for rape",
+      "description": "Whoever commits rape shall be punished with imprisonment of either description for a term which shall not be less than seven years but which may be for life",
+      "max_punishment_days": 25550,
+      "bailable": false,
+      "cognizable": true
+    },
+    {
+      "id": "377",
+      "number": "377",
+      "title": "Unnatural offences",
+      "description": "Whoever voluntarily has carnal intercourse against the order of nature shall be punished with imprisonment for life",
+      "max_punishment_days": 25550,
+      "bailable": false,
+      "cognizable": true
+    },
+    {
+      "id": "379",
+      "number": "379",
+      "title": "Definition of theft",
+      "description": "Whoever, intending to take dishonestly any movable property out of the possession of any person without that person's consent",
+      "max_punishment_days": 1095,
+      "bailable": true,
+      "cognizable": true
+    },
+    {
+      "id": "380",
+      "number": "380",
+      "title": "Theft in dwelling house",
+      "description": "Whoever commits theft in any building which is used as a human dwelling or as a place for the custody of property",
+      "max_punishment_days": 1825,
+      "bailable": true,
+      "cognizable": true
+    },
+    {
+      "id": "381",
+      "number": "381",
+      "title": "Punishment for theft by clerk or servant",
+      "description": "Whoever, being a clerk or servant, commits theft in respect of any property in the possession of his master or employer",
+      "max_punishment_days": 1825,
+      "bailable": true,
+      "cognizable": true
+    },
+    {
+      "id": "392",
+      "number": "392",
+      "title": "Punishment for dacoity",
+      "description": "Whoever commits or attempts to commit dacoity shall be punished with imprisonment of either description for a term which may extend to ten years",
+      "max_punishment_days": 3650,
+      "bailable": false,
+      "cognizable": true
+    },
+    {
+      "id": "420",
+      "number": "420",
+      "title": "Cheating",
+      "description": "Whoever cheats shall be punished with imprisonment of either description for a term which may extend to seven years",
+      "max_punishment_days": 2555,
+      "bailable": true,
+      "cognizable": true
+    },
+    {
+      "id": "447",
+      "number": "447",
+      "title": "Punishment for criminal trespass",
+      "description": "Whoever commits criminal trespass shall be punished with imprisonment of either description for a term which may extend to three months",
+      "max_punishment_days": 90,
+      "bailable": true,
+      "cognizable": false
+    },
+    {
+      "id": "448",
+      "number": "448",
+      "title": "Punishment for house-trespass",
+      "description": "Whoever commits house-trespass shall be punished with simple imprisonment for a term which may extend to three months",
+      "max_punishment_days": 90,
+      "bailable": true,
+      "cognizable": false
+    },
+    {
+      "id": "449",
+      "number": "449",
+      "title": "House-trespass in order to commit offence punishable with life imprisonment",
+      "description": "Whoever commits house-trespass in order to the commission of any offence punishable with life imprisonment",
+      "max_punishment_days": 25550,
+      "bailable": false,
+      "cognizable": true
+    },
+    {
+      "id": "457",
+      "number": "457",
+      "title": "Lurking house-trespass",
+      "description": "Whoever commits lurking house-trespass shall be punished with imprisonment of either description for a term which may extend to two years",
+      "max_punishment_days": 730,
+      "bailable": true,
+      "cognizable": true
+    },
+    {
+      "id": "465",
+      "number": "465",
+      "title": "Punishment for forgery",
+      "description": "Whoever commits forgery shall be punished with imprisonment of either description for a term which may extend to two years",
+      "max_punishment_days": 730,
+      "bailable": true,
+      "cognizable": true
+    },
+    {
+      "id": "468",
+      "number": "468",
+      "title": "Forgery for the purpose of cheating",
+      "description": "Whoever forges any document and uses it as genuine, knowing it to be forged and intending by its use to cause wrongful gain or loss",
+      "max_punishment_days": 730,
+      "bailable": true,
+      "cognizable": true
+    },
+    {
+      "id": "471",
+      "number": "471",
+      "title": "Using as genuine a forged document",
+      "description": "Whoever fraudulently or dishonestly uses any document which he knows or has reason to believe to be a forged document",
+      "max_punishment_days": 730,
+      "bailable": true,
+      "cognizable": true
+    },
+    {
+      "id": "489",
+      "number": "489",
+      "title": "Counterfeiting currency notes",
+      "description": "Whoever, without the authority of the Government of India or the Reserve Bank of India, makes or executes or causes to be made or executed any currency note",
+      "max_punishment_days": 25550,
+      "bailable": false,
+      "cognizable": true
+    },
+    {
+      "id": "498A",
+      "number": "498A",
+      "title": "Cruelty by husband or his relatives",
+      "description": "Whoever, being the husband or the relative of the husband of a woman, subjects such woman to cruelty shall be punished",
+      "max_punishment_days": 1095,
+      "bailable": true,
+      "cognizable": true
+    },
+    {
+      "id": "501",
+      "number": "501",
+      "title": "Punishment for defamation",
+      "description": "Whoever, by words either spoken or intended to be read, or by signs or by visible representations, makes or publishes any imputation",
+      "max_punishment_days": 730,
+      "bailable": true,
+      "cognizable": false
+    },
+    {
+      "id": "503",
+      "number": "503",
+      "title": "Punishment for criminal intimidation",
+      "description": "Whoever threatens another with any injury to his person, reputation or property, or to the person or reputation of any one in whom that person is interested",
+      "max_punishment_days": 730,
+      "bailable": true,
+      "cognizable": false
+    },
+    {
+      "id": "504",
+      "number": "504",
+      "title": "Insult intended to provoke breach of peace",
+      "description": "Whoever, being aware that his words will be likely to provoke any person to commit an offence against public tranquillity or against public order",
+      "max_punishment_days": 90,
+      "bailable": true,
+      "cognizable": false
+    },
+    {
+      "id": "506",
+      "number": "506",
+      "title": "Punishment for criminal intimidation",
+      "description": "Whoever threatens another with any injury to his person, reputation or property, or to the person or reputation of any one in whom that person is interested",
+      "max_punishment_days": 365,
+      "bailable": true,
+      "cognizable": true
+    },
+    {
+      "id": "507",
+      "number": "507",
+      "title": "Criminal intimidation by an anonymous written or electronic communication",
+      "description": "Whoever commits the offence of criminal intimidation by an anonymous written or electronic communication",
+      "max_punishment_days": 730,
+      "bailable": true,
+      "cognizable": true
+    },
+    {
+      "id": "509",
+      "number": "509",
+      "title": "Word, gesture or act intended to insult the modesty of a woman",
+      "description": "Whoever, intending to insult the modesty of any woman, utters any word or makes any gesture or exhibits any object with such intention",
+      "max_punishment_days": 365,
+      "bailable": true,
+      "cognizable": false
+    }
+  ]
+}

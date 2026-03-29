@@ -1,0 +1,25 @@
+{
+  "id": "SC_436A_001",
+  "case_name": "Sanjay Chandra vs Central Bureau of Investigation",
+  "year": 2012,
+  "court": "Supreme Court of India",
+  "section": "436A",
+  "judgment_date": "2012-05-16",
+  "judges": [
+    "Chief Justice S.H. Kapadia",
+    "Justice A.K. Patnaik"
+  ],
+  "summary": "Landmark judgment establishing that detention beyond half the maximum sentence is unconstitutional",
+  "key_holding": "Section 436A CrPC provides an absolute right to bail when an accused has been in detention for a period equal to half of the maximum sentence prescribed for the offence of which he is accused.",
+  "impact": "Revolutionary - made mandatory bail a constitutional right",
+  "precedent_strength": 10,
+  "applicable_sections": [
+    "436A"
+  ],
+  "full_text": "This Hon'ble Court held that an accused cannot be detained in custody beyond half the period of maximum sentence. This is a constitutional safeguard against illegal detention and arbitrary use of detention.",
+  "citations": [
+    "2012 SCC (3) 221",
+    "AIR 2012 SC 830"
+  ],
+  "relevance_score": 0.98
+}

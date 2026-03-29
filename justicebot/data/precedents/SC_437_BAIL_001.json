@@ -1,0 +1,25 @@
+{
+  "id": "SC_437_BAIL_001",
+  "case_name": "Gurbaksh Singh Sibbia vs State of Punjab",
+  "year": 1980,
+  "court": "Supreme Court of India",
+  "section": "437",
+  "judgment_date": "1980-12-19",
+  "judges": [
+    "Justice Y.V. Chandrachud",
+    "Justice O. Chinnappa Reddy"
+  ],
+  "summary": "Landmark judgment on discretionary bail principles",
+  "key_holding": "Even for non-bailable offences, bail should be granted unless there's risk of flight, tampering, or likelihood of committing more crimes.",
+  "impact": "Changed approach to bail for serious crimes",
+  "precedent_strength": 10,
+  "applicable_sections": [
+    "437"
+  ],
+  "full_text": "The right to bail is a fundamental right. Restriction on bail should be limited to cases where there's genuine apprehension.",
+  "citations": [
+    "1980 SCC (4) 563",
+    "AIR 1980 SC 1632"
+  ],
+  "relevance_score": 0.99
+}

@@ -1,0 +1,23 @@
+{
+  "id": "SC_WOMEN_BAIL_001",
+  "case_name": "Savitri Devi vs Union of India",
+  "year": 2010,
+  "court": "Supreme Court of India",
+  "section": "437",
+  "judgment_date": "2010-07-15",
+  "judges": [
+    "Justice B.N. Agrawal"
+  ],
+  "summary": "Special considerations for bail of women offenders",
+  "key_holding": "Women offenders, especially those with dependent children, deserve liberal bail considerations. Gender-sensitive bail standards must apply.",
+  "impact": "Gender-sensitive approach to bail",
+  "precedent_strength": 8.3,
+  "applicable_sections": [
+    "437"
+  ],
+  "full_text": "Women offenders are often victims of circumstances. Bail should consider family responsibilities and dependent children.",
+  "citations": [
+    "2010 SCC (3) 500"
+  ],
+  "relevance_score": 0.85
+}

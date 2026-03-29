@@ -1,0 +1,23 @@
+{
+  "id": "SC_EMBEZZLEMENT_001",
+  "case_name": "Raja Hari Kishan vs Central Bureau of Investigation",
+  "year": 2013,
+  "court": "Supreme Court of India",
+  "section": "437",
+  "judgment_date": "2013-05-25",
+  "judges": [
+    "Justice H.L. Dattu"
+  ],
+  "summary": "Bail in embezzlement by public servant",
+  "key_holding": "Embezzlement by public officials is serious but doesn't warrant indefinite detention. Bail should be available after preliminary investigation.",
+  "impact": "Protected bail rights even in serious economic crimes",
+  "precedent_strength": 8.5,
+  "applicable_sections": [
+    "437"
+  ],
+  "full_text": "Abuse of public position is serious, but presumption of innocence applies. Bail can be granted with stringent conditions.",
+  "citations": [
+    "2013 SCC (7) 150"
+  ],
+  "relevance_score": 0.82
+}

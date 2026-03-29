@@ -1,0 +1,134 @@
+{
+  "caste_analysis": {
+    "SC": {
+      "population_percentage": 16.6,
+      "bail_approval_rate": 55,
+      "average_detention_days": 420,
+      "cases_analyzed": 450,
+      "discrimination_index": 0.23
+    },
+    "ST": {
+      "population_percentage": 8.6,
+      "bail_approval_rate": 58,
+      "average_detention_days": 410,
+      "cases_analyzed": 230,
+      "discrimination_index": 0.2
+    },
+    "OBC": {
+      "population_percentage": 40.0,
+      "bail_approval_rate": 62,
+      "average_detention_days": 380,
+      "cases_analyzed": 890,
+      "discrimination_index": 0.1
+    },
+    "General": {
+      "population_percentage": 34.8,
+      "bail_approval_rate": 72,
+      "average_detention_days": 320,
+      "cases_analyzed": 1200,
+      "discrimination_index": 0.0
+    }
+  },
+  "gender_analysis": {
+    "Male": {
+      "population_percentage": 50.0,
+      "bail_approval_rate": 65,
+      "average_detention_days": 380,
+      "cases_analyzed": 1500,
+      "discrimination_index": 0.0
+    },
+    "Female": {
+      "population_percentage": 50.0,
+      "bail_approval_rate": 68,
+      "average_detention_days": 350,
+      "cases_analyzed": 350,
+      "discrimination_index": -0.05
+    }
+  },
+  "age_analysis": {
+    "18-25": {
+      "bail_approval_rate": 70,
+      "average_detention_days": 300,
+      "cases_analyzed": 450
+    },
+    "26-35": {
+      "bail_approval_rate": 65,
+      "average_detention_days": 380,
+      "cases_analyzed": 650
+    },
+    "36-50": {
+      "bail_approval_rate": 60,
+      "average_detention_days": 420,
+      "cases_analyzed": 500
+    },
+    "50+": {
+      "bail_approval_rate": 55,
+      "average_detention_days": 480,
+      "cases_analyzed": 250
+    }
+  },
+  "state_analysis": {
+    "Maharashtra": {
+      "bail_approval_rate": 68,
+      "average_detention_days": 350,
+      "judges_count": 45,
+      "cases_analyzed": 890
+    },
+    "Delhi": {
+      "bail_approval_rate": 72,
+      "average_detention_days": 320,
+      "judges_count": 38,
+      "cases_analyzed": 750
+    },
+    "Karnataka": {
+      "bail_approval_rate": 65,
+      "average_detention_days": 380,
+      "judges_count": 35,
+      "cases_analyzed": 620
+    },
+    "Tamil Nadu": {
+      "bail_approval_rate": 62,
+      "average_detention_days": 410,
+      "judges_count": 32,
+      "cases_analyzed": 580
+    },
+    "Uttar Pradesh": {
+      "bail_approval_rate": 58,
+      "average_detention_days": 450,
+      "judges_count": 52,
+      "cases_analyzed": 920
+    }
+  },
+  "judge_analysis": {
+    "Judge_001": {
+      "name": "Justice A.K. Sharma",
+      "bail_approval_rate": 78,
+      "cases_handled": 125,
+      "state": "Delhi"
+    },
+    "Judge_002": {
+      "name": "Justice M.R. Pandit",
+      "bail_approval_rate": 65,
+      "cases_handled": 98,
+      "state": "Maharashtra"
+    },
+    "Judge_003": {
+      "name": "Justice S.N. Verma",
+      "bail_approval_rate": 52,
+      "cases_handled": 142,
+      "state": "Uttar Pradesh"
+    },
+    "Judge_004": {
+      "name": "Justice R.P. Rao",
+      "bail_approval_rate": 72,
+      "cases_handled": 110,
+      "state": "Karnataka"
+    },
+    "Judge_005": {
+      "name": "Justice K.V. Menon",
+      "bail_approval_rate": 68,
+      "cases_handled": 95,
+      "state": "Tamil Nadu"
+    }
+  }
+}

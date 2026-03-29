@@ -1,0 +1,24 @@
+{
+  "id": "SC_167_001",
+  "case_name": "P. Chidambaram vs Central Bureau of Investigation",
+  "year": 2019,
+  "court": "Supreme Court of India",
+  "section": "167",
+  "judgment_date": "2019-08-20",
+  "judges": [
+    "Chief Justice Ranjan Gogoi",
+    "Justice Deepak Gupta"
+  ],
+  "summary": "Default bail rights when chargesheet not filed within prescribed time",
+  "key_holding": "If chargesheet is not filed within 60 days (normal) or 90 days (serious offences), accused is entitled to default bail as a matter of right.",
+  "impact": "Protects constitutional right to speedy trial",
+  "precedent_strength": 9.8,
+  "applicable_sections": [
+    "167"
+  ],
+  "full_text": "Silence of the investigating agency cannot be at the cost of liberty of the accused. Default bail is a constitutional guarantee.",
+  "citations": [
+    "2019 SCC (8) 1"
+  ],
+  "relevance_score": 0.97
+}

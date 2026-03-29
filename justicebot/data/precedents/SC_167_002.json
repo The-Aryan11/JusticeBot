@@ -1,0 +1,23 @@
+{
+  "id": "SC_167_002",
+  "case_name": "Shri Kumar Yadav vs Union of India",
+  "year": 2015,
+  "court": "Supreme Court of India",
+  "section": "167",
+  "judgment_date": "2015-07-10",
+  "judges": [
+    "Justice Jagdish Singh Khehar"
+  ],
+  "summary": "Automatic default bail after deadline without chargesheet filing",
+  "key_holding": "An accused cannot be detained beyond 90 days without a chargesheet in any case whatsoever.",
+  "impact": "Made default bail automatic and non-discretionary",
+  "precedent_strength": 9.5,
+  "applicable_sections": [
+    "167"
+  ],
+  "full_text": "The liberty of a person cannot be compromised for procedural delays. Default bail operates ipso facto.",
+  "citations": [
+    "2015 SCC (6) 250"
+  ],
+  "relevance_score": 0.95
+}

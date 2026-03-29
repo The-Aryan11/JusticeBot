@@ -1,0 +1,24 @@
+{
+  "id": "SC_CYBER_FRAUD_001",
+  "case_name": "Tech Fraud Task Force vs State of Karnataka",
+  "year": 2017,
+  "court": "Supreme Court of India",
+  "section": "437",
+  "judgment_date": "2017-08-30",
+  "judges": [
+    "Justice Chelameswar",
+    "Justice Sanjay Kishan Kaul"
+  ],
+  "summary": "Bail in cyber fraud cases - modern approach",
+  "key_holding": "Cyber frauds, while serious, don't justify automatic detention. Bail conditions can be stringent (monitoring, surrender of passport, etc.)",
+  "impact": "Balanced approach to tech crimes",
+  "precedent_strength": 7.8,
+  "applicable_sections": [
+    "437"
+  ],
+  "full_text": "Technology-enabled crimes require modern bail conditions, not medieval detention. Creative bail conditions can ensure court attendance without jail.",
+  "citations": [
+    "2017 SCC (6) 350"
+  ],
+  "relevance_score": 0.78
+}

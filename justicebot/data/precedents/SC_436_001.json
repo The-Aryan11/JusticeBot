@@ -1,0 +1,24 @@
+{
+  "id": "SC_436_001",
+  "case_name": "Sampurna Behera vs State of Odisha",
+  "year": 2018,
+  "court": "Supreme Court of India",
+  "section": "436",
+  "judgment_date": "2018-09-15",
+  "judges": [
+    "Justice A.M. Khanwilkar",
+    "Justice Indira Banerjee"
+  ],
+  "summary": "Bail is rule, jail exception - for bailable offences",
+  "key_holding": "For offences punishable with imprisonment up to 3 years, bail is the rule and refusal is the exception. Accused must be granted bail unless there are strong reasons.",
+  "impact": "Established presumption in favor of bail",
+  "precedent_strength": 9.7,
+  "applicable_sections": [
+    "436"
+  ],
+  "full_text": "The presumption is always in favor of granting bail to an accused charged with a bailable offence. The burden is on the prosecution to show why bail should be denied.",
+  "citations": [
+    "2018 SCC (9) 500"
+  ],
+  "relevance_score": 0.94
+}

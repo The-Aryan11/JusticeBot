@@ -1,0 +1,24 @@
+{
+  "id": "SC_436A_002",
+  "case_name": "Moti Ram vs State of Madhya Pradesh",
+  "year": 2013,
+  "court": "Supreme Court of India",
+  "section": "436A",
+  "judgment_date": "2013-03-20",
+  "judges": [
+    "Justice Aftab Alam",
+    "Justice Dipak Misra"
+  ],
+  "summary": "Reaffirmed Section 436A mandatory bail rights; established that detention logs must be maintained",
+  "key_holding": "Once an accused completes half the maximum sentence in detention, courts MUST grant bail. No discretion available to deny.",
+  "impact": "Strengthened prisoners' rights; made courts accountable",
+  "precedent_strength": 9.5,
+  "applicable_sections": [
+    "436A"
+  ],
+  "full_text": "The court emphasized that Section 436A is not discretionary. Once the period is completed, bail becomes an absolute right.",
+  "citations": [
+    "2013 SCC (5) 290"
+  ],
+  "relevance_score": 0.96
+}

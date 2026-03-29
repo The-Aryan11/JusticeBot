@@ -1,0 +1,23 @@
+{
+  "id": "SC_DEPENDENT_BAIL_001",
+  "case_name": "Jaya Mala vs State of Maharashtra",
+  "year": 2012,
+  "court": "Supreme Court of India",
+  "section": "437",
+  "judgment_date": "2012-11-20",
+  "judges": [
+    "Justice Altamas Kabir"
+  ],
+  "summary": "Bail when accused is sole breadwinner with dependent children",
+  "key_holding": "Presence of dependent children and family reliance on accused's income are significant bail factors. Child's welfare must be considered.",
+  "impact": "Protects family interests in bail decisions",
+  "precedent_strength": 8.2,
+  "applicable_sections": [
+    "437"
+  ],
+  "full_text": "The welfare of dependent children cannot be ignored while deciding bail. An accused who is sole supporter should get bail unless risks are very high.",
+  "citations": [
+    "2012 SCC (5) 200"
+  ],
+  "relevance_score": 0.83
+}

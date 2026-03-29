@@ -1,0 +1,563 @@
+{
+  "cases": [
+    {
+      "id": "demo_001",
+      "name": "Rajesh Kumar",
+      "age": 22,
+      "arrest_date": "2019-01-15",
+      "current_date": "2025-03-29",
+      "fir_number": "FIR/2019/0512",
+      "police_station": "Central Police Station",
+      "state": "Maharashtra",
+      "sections": [
+        "379"
+      ],
+      "section_titles": [
+        "Theft"
+      ],
+      "brief_facts": "Accused arrested for allegedly stealing food items worth Rs. 200 from a local store",
+      "chargesheet_filed": true,
+      "chargesheet_date": "2019-04-20",
+      "detention_days": 2205,
+      "max_sentence_days": 1095,
+      "exceeds_limit": true,
+      "excess_days": 1110,
+      "bail_eligible": true,
+      "bail_reason": "Section 436A - Mandatory bail after exceeding half of max sentence",
+      "analysis": {
+        "status": "ILLEGAL DETENTION",
+        "severity": "CRITICAL",
+        "detained_for": "6 years vs max 3 years",
+        "action": "IMMEDIATE BAIL REQUIRED",
+        "precedents": [
+          "SC_436A_001",
+          "SC_436A_002"
+        ]
+      }
+    },
+    {
+      "id": "demo_002",
+      "name": "Priya Sharma",
+      "age": 28,
+      "arrest_date": "2024-11-01",
+      "current_date": "2025-03-29",
+      "fir_number": "FIR/2024/1205",
+      "police_station": "Main Police Station",
+      "state": "Delhi",
+      "sections": [
+        "420"
+      ],
+      "section_titles": [
+        "Cheating"
+      ],
+      "brief_facts": "Accused arrested for allegedly cheating in a property transaction",
+      "chargesheet_filed": false,
+      "chargesheet_date": null,
+      "detention_days": 149,
+      "max_sentence_days": 2555,
+      "exceeds_limit": false,
+      "excess_days": 0,
+      "bail_eligible": true,
+      "bail_reason": "Section 167 - Default bail (chargesheet not filed within 90 days)",
+      "analysis": {
+        "status": "DEFAULT BAIL ELIGIBLE",
+        "severity": "HIGH",
+        "detained_for": "5 months without chargesheet",
+        "action": "DEFAULT BAIL APPLICABLE NOW",
+        "precedents": [
+          "SC_167_001",
+          "SC_167_002"
+        ]
+      }
+    },
+    {
+      "id": "demo_003",
+      "name": "Mohammed Ahmed",
+      "age": 45,
+      "arrest_date": "2024-08-10",
+      "current_date": "2025-03-29",
+      "fir_number": "FIR/2024/0856",
+      "police_station": "East Police Station",
+      "state": "Karnataka",
+      "sections": [
+        "323"
+      ],
+      "section_titles": [
+        "Voluntarily causing hurt"
+      ],
+      "brief_facts": "Accused arrested for simple hurt in a minor altercation",
+      "chargesheet_filed": true,
+      "chargesheet_date": "2024-09-15",
+      "detention_days": 232,
+      "max_sentence_days": 180,
+      "exceeds_limit": true,
+      "excess_days": 52,
+      "bail_eligible": true,
+      "bail_reason": "Section 436 - Bailable offence, also exceeds half of max sentence",
+      "analysis": {
+        "status": "BAILABLE OFFENCE - BAIL AS OF RIGHT",
+        "severity": "MEDIUM",
+        "detained_for": "7+ months for offence with max 6 months",
+        "action": "IMMEDIATE BAIL APPLICATION",
+        "precedents": [
+          "SC_436_001",
+          "SC_HURT_001"
+        ]
+      }
+    },
+    {
+      "id": "demo_004",
+      "name": "Suresh Verma",
+      "age": 35,
+      "arrest_date": "2023-03-20",
+      "current_date": "2025-03-29",
+      "fir_number": "FIR/2023/0234",
+      "police_station": "Crime Branch",
+      "state": "Uttar Pradesh",
+      "sections": [
+        "307",
+        "326",
+        "504"
+      ],
+      "section_titles": [
+        "Attempt to murder",
+        "Causing grievous hurt",
+        "Insult intended to provoke"
+      ],
+      "brief_facts": "Accused arrested for allegedly attempting to murder in a property dispute; injured victim with weapon",
+      "chargesheet_filed": true,
+      "chargesheet_date": "2023-05-15",
+      "detention_days": 735,
+      "max_sentence_days": 25550,
+      "exceeds_limit": false,
+      "excess_days": 0,
+      "bail_eligible": true,
+      "bail_reason": "Section 437 - Discretionary bail possible with strong grounds",
+      "analysis": {
+        "status": "COMPLEX CASE - SECTION 437 DISCRETIONARY BAIL",
+        "severity": "CRITICAL",
+        "detained_for": "2 years for serious offence",
+        "action": "REQUIRES STRONG BAIL APPLICATION WITH PRECEDENTS",
+        "success_rate": "35-40% (requires legal expertise)",
+        "precedents": [
+          "SC_307_001",
+          "SC_337_BAIL_001"
+        ]
+      }
+    },
+    {
+      "id": "demo_005",
+      "name": "Anjali Gupta",
+      "age": 19,
+      "arrest_date": "2024-12-05",
+      "current_date": "2025-03-29",
+      "fir_number": "FIR/2024/1556",
+      "police_station": "Cyber Cell",
+      "state": "Tamil Nadu",
+      "sections": [
+        "420",
+        "406"
+      ],
+      "section_titles": [
+        "Cheating",
+        "Criminal breach of trust"
+      ],
+      "brief_facts": "First-time offender, accused of online fraud of Rs. 50,000",
+      "chargesheet_filed": false,
+      "chargesheet_date": null,
+      "detention_days": 115,
+      "max_sentence_days": 730,
+      "exceeds_limit": false,
+      "excess_days": 0,
+      "bail_eligible": true,
+      "bail_reason": "First-time offender, young age, bailable offence",
+      "analysis": {
+        "status": "STRONG BAIL CASE",
+        "severity": "LOW-MEDIUM",
+        "detained_for": "4 months, first offence",
+        "action": "BAIL APPLICATION SHOULD SUCCEED",
+        "success_rate": "80-85% (first-time offender, young)",
+        "precedents": [
+          "SC_FIRST_OFFENCE_001"
+        ]
+      }
+    },
+    {
+      "id": "demo_006",
+      "name": "Vikram Singh",
+      "age": 52,
+      "arrest_date": "2022-06-10",
+      "current_date": "2025-03-29",
+      "fir_number": "FIR/2022/0892",
+      "police_station": "White Collar Crime Cell",
+      "state": "Gujarat",
+      "sections": [
+        "468",
+        "471",
+        "120B"
+      ],
+      "section_titles": [
+        "Forgery",
+        "Using forged documents",
+        "Criminal conspiracy"
+      ],
+      "brief_facts": "Alleged forgery of property documents; complex financial fraud case",
+      "chargesheet_filed": true,
+      "chargesheet_date": "2022-08-20",
+      "detention_days": 1025,
+      "max_sentence_days": 3650,
+      "exceeds_limit": false,
+      "excess_days": 0,
+      "bail_eligible": true,
+      "bail_reason": "Approaching half-way point, eligible under 436A soon",
+      "analysis": {
+        "status": "COMPLEX WHITE-COLLAR CRIME",
+        "severity": "CRITICAL",
+        "detained_for": "2.8 years",
+        "action": "436A BAIL WILL BE AVAILABLE SOON (few months)",
+        "success_rate": "70% under 436A when deadline reached",
+        "precedents": [
+          "SC_FRAUD_001",
+          "SC_436A_SERIOUS_001"
+        ]
+      }
+    },
+    {
+      "id": "demo_007",
+      "name": "Fatima Khan",
+      "age": 31,
+      "arrest_date": "2024-10-20",
+      "current_date": "2025-03-29",
+      "fir_number": "FIR/2024/1102",
+      "police_station": "Women's Cell",
+      "state": "West Bengal",
+      "sections": [
+        "498A",
+        "406"
+      ],
+      "section_titles": [
+        "Cruelty by relative",
+        "Criminal breach of trust"
+      ],
+      "brief_facts": "Arrested on complaint of cruelty by husband; family dispute matter",
+      "chargesheet_filed": false,
+      "chargesheet_date": null,
+      "detention_days": 161,
+      "max_sentence_days": 1095,
+      "exceeds_limit": false,
+      "excess_days": 0,
+      "bail_eligible": true,
+      "bail_reason": "Default bail (chargesheet not filed), family ties, working woman",
+      "analysis": {
+        "status": "DEFAULT BAIL + FAMILY CIRCUMSTANCES",
+        "severity": "MEDIUM",
+        "detained_for": "5+ months",
+        "action": "STRONG BAIL APPLICATION WITH FAMILY SUPPORT",
+        "success_rate": "85-90% (family support, employment)",
+        "precedents": [
+          "SC_WOMEN_BAIL_001"
+        ]
+      }
+    },
+    {
+      "id": "demo_008",
+      "name": "Arjun Patel",
+      "age": 26,
+      "arrest_date": "2024-05-12",
+      "current_date": "2025-03-29",
+      "fir_number": "FIR/2024/0456",
+      "police_station": "Traffic Cell",
+      "state": "Rajasthan",
+      "sections": [
+        "336",
+        "337"
+      ],
+      "section_titles": [
+        "Act endangering life",
+        "Causing hurt"
+      ],
+      "brief_facts": "Rash and negligent driving causing minor injuries to pedestrian",
+      "chargesheet_filed": true,
+      "chargesheet_date": "2024-06-15",
+      "detention_days": 322,
+      "max_sentence_days": 180,
+      "exceeds_limit": true,
+      "excess_days": 142,
+      "bail_eligible": true,
+      "bail_reason": "Bailable offence, exceeded half of max sentence (436A)",
+      "analysis": {
+        "status": "CLEAR 436A BAIL CASE",
+        "severity": "LOW-MEDIUM",
+        "detained_for": "10.6 months for max 6 months offence",
+        "action": "IMMEDIATE BAIL (ALREADY ELIGIBLE)",
+        "success_rate": "95%+ (mandatory bail)",
+        "precedents": [
+          "SC_436A_001"
+        ]
+      }
+    },
+    {
+      "id": "demo_009",
+      "name": "Deepak Rao",
+      "age": 41,
+      "arrest_date": "2023-11-08",
+      "current_date": "2025-03-29",
+      "fir_number": "FIR/2023/1234",
+      "police_station": "Cybercrime Cell",
+      "state": "Telangana",
+      "sections": [
+        "420",
+        "511",
+        "120B"
+      ],
+      "section_titles": [
+        "Cheating",
+        "Attempt to commit offence",
+        "Criminal conspiracy"
+      ],
+      "brief_facts": "Online banking fraud involving multiple victims; international connections",
+      "chargesheet_filed": true,
+      "chargesheet_date": "2024-01-20",
+      "detention_days": 507,
+      "max_sentence_days": 2555,
+      "exceeds_limit": false,
+      "excess_days": 0,
+      "bail_eligible": true,
+      "bail_reason": "Approaching half-way point, complex investigation complete",
+      "analysis": {
+        "status": "SERIOUS FRAUD - APPROACHING 436A",
+        "severity": "CRITICAL",
+        "detained_for": "1.6 years",
+        "action": "436A BAIL ELIGIBLE SOON (in 6+ months)",
+        "success_rate": "65-70% if chargesheet strong",
+        "precedents": [
+          "SC_CYBER_FRAUD_001"
+        ]
+      }
+    },
+    {
+      "id": "demo_010",
+      "name": "Neha Devi",
+      "age": 24,
+      "arrest_date": "2024-09-01",
+      "current_date": "2025-03-29",
+      "fir_number": "FIR/2024/0987",
+      "police_station": "Local Police Station",
+      "state": "Punjab",
+      "sections": [
+        "294",
+        "336"
+      ],
+      "section_titles": [
+        "Obscene act",
+        "Act endangering life"
+      ],
+      "brief_facts": "Arrested for creating public disturbance; minor substance involvement",
+      "chargesheet_filed": false,
+      "chargesheet_date": null,
+      "detention_days": 211,
+      "max_sentence_days": 90,
+      "exceeds_limit": true,
+      "excess_days": 121,
+      "bail_eligible": true,
+      "bail_reason": "Bailable offence + Default bail (exceeded 60 days)",
+      "analysis": {
+        "status": "CLEAR BAIL CASE - MULTIPLE GROUNDS",
+        "severity": "LOW",
+        "detained_for": "7 months vs max 3 months",
+        "action": "IMMEDIATE BAIL (436A + DEFAULT)",
+        "success_rate": "98%+ (bailable + exceeded limit)",
+        "precedents": [
+          "SC_436A_001"
+        ]
+      }
+    },
+    {
+      "id": "demo_011",
+      "name": "Rahul Joshi",
+      "age": 33,
+      "arrest_date": "2023-02-15",
+      "current_date": "2025-03-29",
+      "fir_number": "FIR/2023/0156",
+      "police_station": "Economic Offence Cell",
+      "state": "Maharashtra",
+      "sections": [
+        "409",
+        "420",
+        "468"
+      ],
+      "section_titles": [
+        "Criminal breach of trust",
+        "Cheating",
+        "Forgery"
+      ],
+      "brief_facts": "Company director accused of embezzlement of Rs. 2 crores",
+      "chargesheet_filed": true,
+      "chargesheet_date": "2023-04-20",
+      "detention_days": 774,
+      "max_sentence_days": 2555,
+      "exceeds_limit": false,
+      "excess_days": 0,
+      "bail_eligible": true,
+      "bail_reason": "Approaching half of max sentence (436A eligible soon)",
+      "analysis": {
+        "status": "LARGE-SCALE FRAUD - 436A AVAILABLE SOON",
+        "severity": "CRITICAL",
+        "detained_for": "2.1 years",
+        "action": "436A MANDATORY BAIL IN ~3 MONTHS",
+        "success_rate": "100% under 436A (inevitable)",
+        "precedents": [
+          "SC_EMBEZZLEMENT_001"
+        ]
+      }
+    },
+    {
+      "id": "demo_012",
+      "name": "Laxmi Devi",
+      "age": 38,
+      "arrest_date": "2024-07-20",
+      "current_date": "2025-03-29",
+      "fir_number": "FIR/2024/0654",
+      "police_station": "Local Police Station",
+      "state": "Odisha",
+      "sections": [
+        "379",
+        "411"
+      ],
+      "section_titles": [
+        "Theft",
+        "Dishonestly receiving stolen property"
+      ],
+      "brief_facts": "Mother of two, arrested for petty theft of groceries worth Rs. 5,000",
+      "chargesheet_filed": true,
+      "chargesheet_date": "2024-08-25",
+      "detention_days": 253,
+      "max_sentence_days": 1095,
+      "exceeds_limit": false,
+      "excess_days": 0,
+      "bail_eligible": true,
+      "bail_reason": "Bailable offence, dependent children, poor woman",
+      "analysis": {
+        "status": "STRONG BAIL CASE - DEPENDENT CHILDREN",
+        "severity": "LOW",
+        "detained_for": "8+ months for petty theft",
+        "action": "BAIL APPLICATION WITH DEPENDENT CHILD ARGUMENT",
+        "success_rate": "90%+ (family circumstances)",
+        "precedents": [
+          "SC_DEPENDENT_BAIL_001"
+        ]
+      }
+    },
+    {
+      "id": "demo_013",
+      "name": "Arun Singh",
+      "age": 29,
+      "arrest_date": "2024-04-10",
+      "current_date": "2025-03-29",
+      "fir_number": "FIR/2024/0345",
+      "police_station": "Cyber Crime Cell",
+      "state": "Haryana",
+      "sections": [
+        "420",
+        "505"
+      ],
+      "section_titles": [
+        "Cheating",
+        "Statement conducing to public mischief"
+      ],
+      "brief_facts": "Online scam through fake job advertisements; multiple victims across states",
+      "chargesheet_filed": true,
+      "chargesheet_date": "2024-05-30",
+      "detention_days": 354,
+      "max_sentence_days": 2555,
+      "exceeds_limit": false,
+      "excess_days": 0,
+      "bail_eligible": true,
+      "bail_reason": "Multiple offences but bailable; approaching halfway point",
+      "analysis": {
+        "status": "MULTI-STATE FRAUD - 436A AVAILABLE IN 9 MONTHS",
+        "severity": "HIGH",
+        "detained_for": "1.2 years",
+        "action": "437 DISCRETIONARY BAIL POSSIBLE NOW OR 436A LATER",
+        "success_rate": "60-65% (serious but not violent)",
+        "precedents": [
+          "SC_FRAUD_BAIL_001"
+        ]
+      }
+    },
+    {
+      "id": "demo_014",
+      "name": "Meera Menon",
+      "age": 35,
+      "arrest_date": "2024-06-18",
+      "current_date": "2025-03-29",
+      "fir_number": "FIR/2024/0501",
+      "police_station": "Women Police Cell",
+      "state": "Kerala",
+      "sections": [
+        "406",
+        "409"
+      ],
+      "section_titles": [
+        "Criminal breach of trust",
+        "Dishonest misappropriation"
+      ],
+      "brief_facts": "Accountant accused of misappropriating client funds; amount Rs. 8 lakhs",
+      "chargesheet_filed": false,
+      "chargesheet_date": null,
+      "detention_days": 285,
+      "max_sentence_days": 1095,
+      "exceeds_limit": false,
+      "excess_days": 0,
+      "bail_eligible": true,
+      "bail_reason": "Default bail (chargesheet not filed in 90+ days)",
+      "analysis": {
+        "status": "DEFAULT BAIL ELIGIBLE - CHARGESHEET DELAYED",
+        "severity": "MEDIUM",
+        "detained_for": "9.5 months without chargesheet",
+        "action": "DEFAULT BAIL NOW APPLICABLE",
+        "success_rate": "100% (default bail)",
+        "precedents": [
+          "SC_167_001"
+        ]
+      }
+    },
+    {
+      "id": "demo_015",
+      "name": "Harish Kumar",
+      "age": 27,
+      "arrest_date": "2024-08-25",
+      "current_date": "2025-03-29",
+      "fir_number": "FIR/2024/0789",
+      "police_station": "Local Police Station",
+      "state": "Uttar Pradesh",
+      "sections": [
+        "447",
+        "448"
+      ],
+      "section_titles": [
+        "Criminal trespass",
+        "House-trespass"
+      ],
+      "brief_facts": "Alleged unauthorized entry into neighbor's property; minor property damage",
+      "chargesheet_filed": false,
+      "chargesheet_date": null,
+      "detention_days": 217,
+      "max_sentence_days": 90,
+      "exceeds_limit": true,
+      "excess_days": 127,
+      "bail_eligible": true,
+      "bail_reason": "Bailable offence + exceeded detention limit (436A)",
+      "analysis": {
+        "status": "CLEAR BAIL CASE - BAILABLE OFFENCE",
+        "severity": "LOW",
+        "detained_for": "7.2 months vs max 3 months",
+        "action": "IMMEDIATE BAIL (MANDATORY UNDER 436A)",
+        "success_rate": "99%+ (clear-cut case)",
+        "precedents": [
+          "SC_436A_001"
+        ]
+      }
+    }
+  ]
+}

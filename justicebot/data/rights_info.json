@@ -1,0 +1,74 @@
+{
+  "rights": [
+    {
+      "id": "right_001",
+      "title": "Right to know grounds of arrest",
+      "description": "You have the right to be informed of the grounds (reasons) for your arrest within 24 hours.",
+      "applicable_section": "Article 22(1), Constitution of India",
+      "importance": "CRITICAL"
+    },
+    {
+      "id": "right_002",
+      "title": "Right to consult lawyer",
+      "description": "You have the absolute right to consult a lawyer of your choice. This is a constitutional right that cannot be denied.",
+      "applicable_section": "Article 22(1), Constitution of India",
+      "importance": "CRITICAL"
+    },
+    {
+      "id": "right_003",
+      "title": "Right against self-incrimination",
+      "description": "You cannot be forced to confess or give evidence against yourself. Confessions made under coercion are invalid.",
+      "applicable_section": "Article 20(3), Constitution of India",
+      "importance": "CRITICAL"
+    },
+    {
+      "id": "right_004",
+      "title": "Right to bail",
+      "description": "For bailable offences, bail is your right, not a privilege. For non-bailable offences, bail is discretionary but should be granted unless flight risk or tampering is likely.",
+      "applicable_section": "Section 436, 437 CrPC",
+      "importance": "CRITICAL"
+    },
+    {
+      "id": "right_005",
+      "title": "Right to speedy trial",
+      "description": "You have the constitutional right to a speedy trial. Unreasonable delay in chargesheet or trial is grounds for bail.",
+      "applicable_section": "Article 21, Constitution of India",
+      "importance": "CRITICAL"
+    },
+    {
+      "id": "right_006",
+      "title": "Section 436A - Mandatory Bail",
+      "description": "After being detained for half of the maximum sentence, you MUST be released on bail. This is not discretionary.",
+      "applicable_section": "Section 436A CrPC",
+      "importance": "CRITICAL"
+    },
+    {
+      "id": "right_007",
+      "title": "Default Bail - Section 167",
+      "description": "If chargesheet is not filed within 60 days (normal) or 90 days (serious crimes), you are eligible for bail automatically.",
+      "applicable_section": "Section 167 CrPC",
+      "importance": "CRITICAL"
+    },
+    {
+      "id": "right_008",
+      "title": "Right to medical examination",
+      "description": "You have the right to medical examination if you suspect police torture or abuse. Medical report can be used as evidence.",
+      "applicable_section": "Section 54 CrPC",
+      "importance": "HIGH"
+    },
+    {
+      "id": "right_009",
+      "title": "Right to free legal aid",
+      "description": "If you cannot afford a lawyer, the state will provide you with one free of cost. You can also approach the legal aid board.",
+      "applicable_section": "Section 303, 304 CrPC",
+      "importance": "HIGH"
+    },
+    {
+      "id": "right_010",
+      "title": "Right to challenge custody",
+      "description": "You can file a habeas corpus petition to challenge illegal detention or apply for bail in higher courts if lower court denies it.",
+      "applicable_section": "Article 226, 32, Constitution of India",
+      "importance": "HIGH"
+    }
+  ]
+}

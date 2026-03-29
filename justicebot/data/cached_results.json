@@ -1,0 +1,31 @@
+{
+  "total_cases_analyzed": 1850,
+  "illegal_detention_cases": 520,
+  "bail_eligible_cases": 1450,
+  "average_detention_days": 380,
+  "success_rate_average": 0.68,
+  "bias_detected_cases": 350,
+  "timestamp": "2025-03-29",
+  "statistics": {
+    "bailable_offences": {
+      "total": 890,
+      "bail_granted": 780,
+      "success_rate": 0.876
+    },
+    "non_bailable_offences": {
+      "total": 960,
+      "bail_granted": 520,
+      "success_rate": 0.542
+    },
+    "436A_eligible": {
+      "total": 350,
+      "bail_granted": 348,
+      "success_rate": 0.994
+    },
+    "default_bail_eligible": {
+      "total": 280,
+      "bail_granted": 275,
+      "success_rate": 0.982
+    }
+  }
+}
